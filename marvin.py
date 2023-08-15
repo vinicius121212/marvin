@@ -2,7 +2,7 @@ import openai
 from elevenlabs import set_api_key, generate, play
 
 
-set_api_key("fdb4541ae79a92251b8235bba10a2173")
+set_api_key("xxxxxxxxxxxxxxxxxxxxxxxxx")
 
 
 # Set your OpenAI API key
