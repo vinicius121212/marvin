@@ -1,1 +1,1 @@
-sk-OAIfWP6NjEUnRSwzrmjtT3BlbkFJdCdgkCgpJ2hPebmaTSd
+*put your OpenAI API key here*
